@@ -68,11 +68,3 @@ body {
 #tech-club-form button[type="submit"]:hover {
     background-color: #3e8e41;
   }
-  
-  /* Error Messages */
-  
-  .error {
-    color: red;
-    font-size: 12px;
-    margin-bottom: 10px;
-  }
